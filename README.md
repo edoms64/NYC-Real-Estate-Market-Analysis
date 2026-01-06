@@ -9,3 +9,8 @@ NYC Real Estate Market Analysis Dashboard
 This dashboard provides an an analysis of the New York City real estate market between 2003 and 2023 and specifically provides an analysis of the real estate markets of the Manhattan borough and the Upper East Side (59-79) neighborhood in comarison to other neighborhood(s) and borough(s). The data visualizations within this dashboard display that Manhattan is the borough with the most total market value and the Upper East Side is one of the most profitable and highly-desired neighborhoods with the second highest total market value in comparison to all other neighborhoods in New York City.
 
 * The link to the dashboard is linked to the image above.
+
+
+ERD 
+<img width="709" height="591" alt="AD571 NYC Real Estate Project drawio" src="https://github.com/user-attachments/assets/98db9daa-6464-4f18-b2b2-f7311b96cc39" />
+
