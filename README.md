@@ -12,5 +12,6 @@ This dashboard provides an an analysis of the New York City real estate market b
 
 
 ERD 
+
 <img width="709" height="591" alt="AD571 NYC Real Estate Project drawio" src="https://github.com/user-attachments/assets/98db9daa-6464-4f18-b2b2-f7311b96cc39" />
 
