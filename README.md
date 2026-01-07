@@ -15,3 +15,8 @@ ERD
 
 <img width="709" height="591" alt="AD571 NYC Real Estate Project drawio" src="https://github.com/user-attachments/assets/98db9daa-6464-4f18-b2b2-f7311b96cc39" />
 
+NYC Real Estate Analysis - Perscriptive Analysis
+This assignment for the NYC Real Estate Market Analysis is where I combined time series forecasting with optimization techniques to evaluate real estate sales in my neighborhood (Upper East Side (59-79)). I forecasted future sales in R, then built an optimization model (in R) to maximize net present value (NPV) under given constraints. This assignment connected predictive modeling with managerial decision-making. 
+
+[Assignment-5.pdf](https://github.com/user-attachments/files/24482644/Assignment-5.pdf)
+
