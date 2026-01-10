@@ -1,4 +1,4 @@
-# NYC-Real-Estate-Market-Analysis
+# NYC-Real-Estate-Market-Analysis Power BI and R Studio
 This project is an analysis of the New York City real estate market between 2003 and 2023 by borough(s) and neighborhood(s). This project provides an ERD and a dashboard containing both data visualizations and written analysis' of the data visualizations.
 
 
